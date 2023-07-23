@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
+global.mods = ['94702314166','94702314166'] 
 global.prems = ['94740804536', '94740804536', '94740804536']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
@@ -49,17 +49,17 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '💝 Queen Hentai 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 Queen Hentai Created By Mr Sihilel💝' 
+global.author = '🌿:ꜱɪͥʜɪʟͣᴇͫʟ-ʙᴏᴛ:🌿' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.dygp = 'https://chat.whatsapp.com/JKFZ7fRxY6O0CbJs8M2oaB'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fgyt = 'https://chat.whatsapp.com/JKFZ7fRxY6O0CbJs8M2oaB'
+global.fgpyp = 'https://chat.whatsapp.com/JKFZ7fRxY6O0CbJs8M2oaB'
+global.fglog = 'https://i.ibb.co/LvCvhhS/94-77-275-7662-20220813-161305.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*💝 _Waiting Bro Uploading by 🎇 Sihilel bot 💝..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '👍'
